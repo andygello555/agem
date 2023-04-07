@@ -1,4 +1,4 @@
-package main
+package agem
 
 import (
 	"fmt"
